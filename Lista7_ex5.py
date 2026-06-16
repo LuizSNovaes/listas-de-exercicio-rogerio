@@ -33,3 +33,4 @@ elif bom > ruim and bom > excelente:
 
 else:
     print("Avaliação vencedora: Excelente")
+    
